@@ -1,0 +1,19 @@
+{
+  "name": "daily-task",
+  "version": "0.1",
+  "description": "This project was created to enhance my skills and learn Node JS with Postgresql",
+  "main": "src/server.js",
+  "repository": "https://github.com/yadson-matheus/daily-task.git",
+  "author": "Yadson Matheus",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
